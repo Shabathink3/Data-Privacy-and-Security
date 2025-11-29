@@ -463,7 +463,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @misc{hybrid_ids_xai_2025,
   title={Hybrid AI/ML Network Intrusion Detection with Explainable AI},
-  author={[Your Name]},
+
   institution={The British University in Dubai},
   year={2025},
   note={INF613 - Computer Network and Data Security}
@@ -480,9 +480,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Student:** [Your Name]
-- **Student ID:** [Your ID]
-- **Email:** [Your Email]
 - **Institution:** The British University in Dubai
 - **Module:** INF613 - Computer Network and Data Security
 
